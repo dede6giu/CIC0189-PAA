@@ -1,4 +1,4 @@
-# ENE0040-LABSD
+# CIC0189-PAA
 
 > **English**: Compilation of papers and codes done for CIC0189 in UnB.
 
